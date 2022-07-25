@@ -1,6 +1,6 @@
 # kottans-frontend
 
-##Git та GitHub
+## Git та GitHub
 
 My name is Nadia. I am 21y.o.
 I have used Git for studying before but this material were very useful for me.
@@ -15,4 +15,4 @@ I used to study:
 ![Git intro](/assets/img/Git_intro/IntroVC.jpg)
 ![Git intro](/assets/img/Git_intro/UsingGit.jpg)
 ![Git intro](/assets/img/Git_intro/Git_Intro.jpg)
-![Git intro](/assets/img/Git_intro/Git_intro2.jpg)
+![Git intro](/assets/img/Git_intro/git_intro2.jpg)
