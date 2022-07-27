@@ -12,6 +12,8 @@ I used to study:
 - CSS
 - JS
 
+---
+
 - [Introduction to Git and GitHub Week 1](/assets/img/Git_intro/IntroVC.jpg)
 - [Introduction to Git and GitHub Week 2](/assets/img/Git_intro/UsingGit.jpg)
 
