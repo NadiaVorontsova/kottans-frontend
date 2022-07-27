@@ -12,10 +12,13 @@ I used to study:
 - CSS
 - JS
 
-![Git intro](/assets/img/Git_intro/IntroVC.jpg)
-![Git intro](/assets/img/Git_intro/UsingGit.jpg)
-![Git intro](/assets/img/Git_intro/Git_Intro.jpg)
-![Git intro](/assets/img/Git_intro/git_intro2.jpg)
+- [Introduction to Git and GitHub Week 1](/assets/img/Git_intro/IntroVC.jpg)
+- [Introduction to Git and GitHub Week 2](/assets/img/Git_intro/UsingGit.jpg)
+
+I went through the levels here learngitbranching.js.org:
+
+- [Introduction Sequence](/assets/img/Git_intro/Git_Intro.jpg)
+- [Push & Pull](/assets/img/Git_intro/git_intro2.jpg)
 
 ## Linux CLI, and HTTP
 
