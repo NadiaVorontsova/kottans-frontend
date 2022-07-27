@@ -15,7 +15,7 @@ I used to study:
 ![Git intro](/assets/img/Git_intro/IntroVC.jpg)
 ![Git intro](/assets/img/Git_intro/UsingGit.jpg)
 ![Git intro](/assets/img/Git_intro/Git_Intro.jpg)
-![Git intro](/assets/img/Git_intro/Git_intro2.jpg)
+![Git intro](/assets/img/Git_intro/git_intro2.jpg)
 
 ## Linux CLI, and HTTP
 
@@ -33,3 +33,4 @@ I suppose i will use all commands except commands for printing.
 
 I have already used HTTP requests in my project for studying but i used just get, post, update and delete methods.
 I will continue to explore this theme specifically how to work with headers.
+
