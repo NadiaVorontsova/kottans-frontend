@@ -39,3 +39,17 @@ I suppose i will use all commands except commands for printing.
 I have already used HTTP requests in my project for studying but i used just get, post, update and delete methods.
 I will continue to explore this theme specifically how to work with headers.
 
+## Git Collaboration
+
+If i had watched week 3 and 4 in Introduction to Git and GitHub on Coursera several days ago I would not have had problems with PR.
+I will need this information in the future. 
+I like that the lessons were in English because it can help me improve my level but it was not always so easy to understand him.
+
+- [Introduction to Git and GitHub Week 3](/assets/img/task_git_collaboration/week3.jpg)
+- [Introduction to Git and GitHub Week 4](/assets/img/task_git_collaboration/week4.jpg)
+
+I went through the levels here learngitbranching.js.org:
+
+- [Introduction Sequence](/assets/img/Git_intro/Git_Intro.jpg)
+- [Push & Pull](/assets/img/Git_intro/git_intro2.jpg)
+
