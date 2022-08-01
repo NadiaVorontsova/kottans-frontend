@@ -53,3 +53,22 @@ I went through the levels here learngitbranching.js.org:
 - [Introduction Sequence](/assets/img/Git_intro/Git_Intro.jpg)
 - [Push & Pull](/assets/img/Git_intro/git_intro2.jpg)
 
+## Intro to HTML and CSS
+
+1. Intro to HTML & CSS on Coursera:
+- [HTML Week 1](/assets/img/task_html_css_intro/html_css_week1.jpg)
+- [CSS Week 2](/assets/img/task_html_css_intro/html_css_week2.jpg)
+
+---
+
+2. Learn HTML and CSS
+
+- [Learn HTML and CSS](/assets/img/task_html_css_intro/CodecademyHtmlCss.jpg)
+
+I have already worked with HTML and there was nothing new for me but what about CSS...
+Finally i undertood how to use box-sizing property and relative and how to work with relative and absolute element positioning.
+Until this moment I did not know about such a property as clear.
+I have already used responsive design with the Bootstrap Grid System, so this was the easy part of this course and i will use it in the future because i find that it is a simple way to make site adaptive.
+I found out how to correct work with fonts.
+<br/>
+In addition, I found many resources which can help me, for example jsfiddle, codepen, css-tricks, caniuse, validator.w3, csszengarden.
