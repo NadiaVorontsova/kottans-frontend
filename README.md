@@ -72,3 +72,12 @@ I have already used responsive design with the Bootstrap Grid System, so this wa
 I found out how to correct work with fonts.
 <br/>
 In addition, I found many resources which can help me, for example jsfiddle, codepen, css-tricks, caniuse, validator.w3, csszengarden.
+
+## Responsive Web Design
+
+- [Flexbox Froggy](/assets/img/task_responsive_web_design/FlexboxFroggy.jpg)
+- [Grid Garden](/assets/img/task_responsive_web_design/GridGarden.jpg)
+
+Very interesting material, I specially liked the videos of Lifestyle freelancer blogger. He speaks clearly and understandably.
+<br/>
+I will use this knowledge;)
