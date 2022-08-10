@@ -81,3 +81,10 @@ In addition, I found many resources which can help me, for example jsfiddle, cod
 Very interesting material, I specially liked the videos of Lifestyle freelancer blogger. He speaks clearly and understandably.
 <br/>
 I will use this knowledge;)
+
+## HTML-CSS-Popup
+
+[Demo](https://nadiavorontsova.github.io/hooli-style-popup/) |
+[Code base](https://github.com/NadiaVorontsova/hooli-style-popup)
+
+It was very interesting for me. I understood how to work with CSS flex and grid. Learned using pseudo-classes and customize checkboxes. I had a lot of mistakes but with the help of mentors i improved my code:)
