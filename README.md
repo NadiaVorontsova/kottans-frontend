@@ -88,3 +88,24 @@ I will use this knowledge;)
 [Code base](https://github.com/NadiaVorontsova/hooli-style-popup)
 
 It was very interesting for me. I understood how to work with CSS flex and grid. Learned using pseudo-classes and customize checkboxes. I had a lot of mistakes but with the help of mentors i improved my code:)
+
+## JS Basics
+
+- [Introduction to JS](/assets/img/task_js_basics/IntroJS.jpg)
+
+I really like the way the speaker said. I learned about closures and how to call a function immediately.
+
+---
+
+- [Basic JavaScript](/assets/img/task_js_basics/BasicsJS.jpg)
+- [ES6 Challenges](/assets/img/task_js_basics/ES6_JS.jpg)
+- [Basic Data Structures](/assets/img/task_js_basics/BasicDataStructures.jpg)
+- [Basic Algorithm Scripting](/assets/img/task_js_basics/BasicAlgorithmScripting.jpg)
+- [Functional Programming](/assets/img/task_js_basics/Functional_Programming.jpg)
+- [Algorithm Scripting Challenges](/assets/img/task_js_basics/IntermediateAlgorithm.jpg)
+
+It took a long time and the last tasks were difficult for me, but i really improve skills for solving easy tasks.
+<br/>
+I will more practice and i hope i could meet the challenges of understanding more complex tasks.
+
+
