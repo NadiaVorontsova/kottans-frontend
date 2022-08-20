@@ -108,4 +108,19 @@ It took a long time and the last tasks were difficult for me, but i really impro
 <br/>
 I will more practice and i hope i could meet the challenges of understanding more complex tasks.
 
+## DOM
+
+- [Document Object Model Manipulation](/assets/img/task_js_dom/DOM_Manipulation.jpg)
+- [Algorithm Scripting Challenges](/assets/img/task_js_dom/AlgorithmScripting.jpg)
+
+The last tasks on freecodecamp were so difficult for me. I very often used google. I had problem with this tasks (Sum All Odd Fibonacci Numbers, Sum All Primes and Pig Latin). I'll try to complete this task in a few days again.
+
+---
+
+### Dom-api-task
+
+[Demo](https://nadiavorontsova.github.io/document-object-model/) |
+[Code base](https://github.com/NadiaVorontsova/document-object-model)
+
+
 
