@@ -117,10 +117,12 @@ The last tasks on freecodecamp were so difficult for me. I very often used googl
 
 ---
 
-### Dom-api-task
+#### Dom-api-task
 
 [Demo](https://nadiavorontsova.github.io/document-object-model/) |
 [Code base](https://github.com/NadiaVorontsova/document-object-model)
 
+## A-Tiny-JS-World
 
-
+[Demo](https://nadiavorontsova.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/NadiaVorontsova/a-tiny-JS-world)
