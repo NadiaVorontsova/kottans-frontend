@@ -85,7 +85,8 @@ I will use this knowledge;)
 ## HTML-CSS-Popup
 
 [Demo](https://nadiavorontsova.github.io/hooli-style-popup/) |
-[Code base](https://github.com/NadiaVorontsova/hooli-style-popup)
+[Code base](https://github.com/NadiaVorontsova/hooli-style-popup) |
+[Review](https://github.com/kottans/frontend-2022-homeworks/pull/76)
 
 It was very interesting for me. I understood how to work with CSS flex and grid. Learned using pseudo-classes and customize checkboxes. I had a lot of mistakes but with the help of mentors i improved my code:)
 
@@ -125,6 +126,6 @@ The last tasks on freecodecamp were so difficult for me. I very often used googl
 ## A-Tiny-JS-World
 
 [Demo](https://nadiavorontsova.github.io/a-tiny-JS-world/) |
-[Code base](https://github.com/NadiaVorontsova/a-tiny-JS-world)
+[Code base](https://github.com/NadiaVorontsova/a-tiny-JS-world) |
 [Review](https://github.com/kottans/frontend-2022-homeworks/pull/280)
 
