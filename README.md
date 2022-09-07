@@ -129,3 +129,28 @@ The last tasks on freecodecamp were so difficult for me. I very often used googl
 [Demo](https://nadiavorontsova.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/NadiaVorontsova/a-tiny-JS-world) |
 [Review](https://github.com/kottans/frontend-2022-homeworks/pull/280)
+
+## Object-Oriented JavaScript
+
+I have already knowen about classes and oop principles, but these videos reminded me of some things.
+
+#### Classic Frogger Game
+
+[Demo](https://nadiavorontsova.github.io/classic-frogger-game/) |
+[Code base](https://github.com/NadiaVorontsova/classic-frogger-game) |
+[Review](https://github.com/kottans/frontend-2022-homeworks/pull/329)
+
+It was good practice task to improve my skills with work with prototype.
+At first I did not understand anything, but Yevgen (Eternal Love) helped me (telegram - @EternalLoveAndFire).
+
+#### Сodewars
+
+[Profile](https://www.codewars.com/users/NadiiaVorontsova)
+
+## OOP exercise
+
+I like to work with classes.
+
+[Demo](https://nadiavorontsova.github.io/a-tiny-JS-world-OOP/) |
+[Code base](https://github.com/NadiaVorontsova/a-tiny-JS-world-OOP) |
+[Review](https://github.com/kottans/frontend-2022-homeworks/pull/357)
